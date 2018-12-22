@@ -16,6 +16,7 @@ return array(
     'App\\Http\\Controllers\\Controller' => $baseDir . '/app/Http/Controllers/Controller.php',
     'App\\Http\\Controllers\\Mydata2Controller' => $baseDir . '/app/Http/Controllers/Mydata2Controller.php',
     'App\\Http\\Controllers\\MydataController' => $baseDir . '/app/Http/Controllers/MydataController.php',
+    'App\\Http\\Controllers\\ObjController' => $baseDir . '/app/Http/Controllers/ObjController.php',
     'App\\Http\\Kernel' => $baseDir . '/app/Http/Kernel.php',
     'App\\Http\\Middleware\\Authenticate' => $baseDir . '/app/Http/Middleware/Authenticate.php',
     'App\\Http\\Middleware\\CheckForMaintenanceMode' => $baseDir . '/app/Http/Middleware/CheckForMaintenanceMode.php',

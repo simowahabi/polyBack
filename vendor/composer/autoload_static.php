@@ -430,6 +430,7 @@ class ComposerStaticInitecb6be184410fedf3216cfb125ecb376
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\Mydata2Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Mydata2Controller.php',
         'App\\Http\\Controllers\\MydataController' => __DIR__ . '/../..' . '/app/Http/Controllers/MydataController.php',
+        'App\\Http\\Controllers\\ObjController' => __DIR__ . '/../..' . '/app/Http/Controllers/ObjController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\CheckForMaintenanceMode' => __DIR__ . '/../..' . '/app/Http/Middleware/CheckForMaintenanceMode.php',
